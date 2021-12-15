@@ -1,0 +1,49 @@
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\CrmUI.exe.config
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\CrmUI.exe
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\CrmUI.pdb
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\CrmBL.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\EntityFramework.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\CrmBL.pdb
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\CrmBL.dll.config
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\EntityFramework.xml
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.AssemblyReference.cache
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.Catalog.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.LoginForm.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.ProductForm.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.SellerForm.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.CustomerForm.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.Main.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.Properties.Resources.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.SimulationForm.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.GenerateResource.cache
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.CoreCompileInputs.cache
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.CopyComplete
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.exe
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmUI\obj\Release\CrmUI.pdb
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\CrmUI.exe.config
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\CrmUI.exe
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\CrmUI.pdb
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\CrmBL.dll
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\EntityFramework.dll
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\CrmBL.pdb
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\CrmBL.dll.config
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\EntityFramework.xml
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.Catalog.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.LoginForm.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.ProductForm.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.SellerForm.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.CustomerForm.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.Main.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.Properties.Resources.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.SimulationForm.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.csproj.CopyComplete
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.exe
+C:\Users\danil\Desktop\CrmModelShop\CrmUI\obj\Release\CrmUI.pdb

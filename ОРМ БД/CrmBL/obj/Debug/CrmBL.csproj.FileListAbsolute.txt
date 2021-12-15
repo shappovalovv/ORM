@@ -1,0 +1,14 @@
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Debug\CrmBL.dll.config
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Debug\CrmBL.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Debug\CrmBL.pdb
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Debug\EntityFramework.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Debug\EntityFramework.xml
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Debug\CrmBL.csproj.CoreCompileInputs.cache
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Debug\CrmBL.csproj.CopyComplete
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Debug\CrmBL.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Debug\CrmBL.pdb
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Debug\CrmBL.Migrations.update180419.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Debug\CrmBL.csproj.GenerateResource.cache
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Debug\CrmBL.csproj.AssemblyReference.cache
