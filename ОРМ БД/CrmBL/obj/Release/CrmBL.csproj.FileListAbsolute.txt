@@ -1,0 +1,27 @@
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Release\CrmBL.dll.config
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Release\CrmBL.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Release\CrmBL.pdb
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Release\EntityFramework.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Release\EntityFramework.xml
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Release\CrmBL.Migrations.update180419.resources
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Release\CrmBL.csproj.GenerateResource.cache
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Release\CrmBL.csproj.CoreCompileInputs.cache
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Release\CrmBL.csproj.CopyComplete
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Release\CrmBL.dll
+C:\Users\T1000\Desktop\Проекты C#\CrmModelShop\CrmBL\obj\Release\CrmBL.pdb
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\bin\Release\CrmBL.dll.config
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\bin\Release\CrmBL.dll
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\bin\Release\CrmBL.pdb
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\bin\Release\EntityFramework.dll
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\bin\Release\EntityFramework.xml
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\obj\Release\CrmBL.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\obj\Release\CrmBL.Migrations.update180419.resources
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\obj\Release\CrmBL.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\obj\Release\CrmBL.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\obj\Release\CrmBL.csproj.CopyComplete
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\obj\Release\CrmBL.dll
+C:\Users\danil\Desktop\CrmModelShop\CrmBL\obj\Release\CrmBL.pdb
