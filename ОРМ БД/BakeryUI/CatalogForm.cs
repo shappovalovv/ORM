@@ -2,18 +2,21 @@
 using System.Data.Entity;
 using System.Windows.Forms;
 using System;
+using BakeryBL.Repository.impl;
 
 namespace BakeryUI
 {
     public partial class CatalogForm<T> : Form
         where T : class
     {
-        CrmDbContext db;
+        ProductRepository productRepository;
+        ShopRepository shopRepository;
         DbSet<T> set;
-        public CatalogForm(DbSet<T> set, CrmDbContext db)
+        public CatalogForm(DbSet<T> set, ProductRepository pRepo, ShopRepository sRepo)
         {
             InitializeComponent();
-            this.db = db;
+            this.productRepository = pRepo;
+            this.shopRepository = sRepo;
             this.set = set;
             set.Load();
             dataGridView.DataSource = set.Local.ToBindingList();
@@ -31,7 +34,7 @@ namespace BakeryUI
                     if (form.ShowDialog() == DialogResult.OK)
                     {
                         product = form.Product;
-                        db.SaveChanges();
+                        productRepository.SaveChanges();
                         dataGridView.Update();
                     }
                 }
@@ -46,7 +49,7 @@ namespace BakeryUI
                     if (form.ShowDialog() == DialogResult.OK)
                     {
                         shop = form.Shop;
-                        db.SaveChanges();
+                        shopRepository.SaveChanges();
                         dataGridView.Update();
                     }
                 }

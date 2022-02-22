@@ -1,35 +1,40 @@
 ﻿using BakeryBL.Models;
 using System;
 using System.Windows.Forms;
+using BakeryBL.Repository.impl;
 
 namespace BakeryUI
 {
     public partial class MainForm : Form
     {
-        CrmDbContext db;
+        ProductRepository productRepository;
+        OrderRepository orderRepository;
+        ShopRepository shopRepository;
         public MainForm()
         {
             InitializeComponent();
-            db = new CrmDbContext();
+            productRepository = new ProductRepository();
+            orderRepository = new OrderRepository();
+            shopRepository = new ShopRepository();
         }
 
         private void ProductToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var catalogProduct = new CatalogForm<Product>(db.Products, db);
-            catalogProduct.Show(); 
+            var catalogProduct = new CatalogForm<Product>(productRepository.Products, productRepository, shopRepository);
+            catalogProduct.Show();
             Hide();
         }
 
         private void ShopToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            var catalogShop = new CatalogForm<Shop>(db.Shops, db);
+            var catalogShop = new CatalogForm<Shop>(shopRepository.Shops, productRepository, shopRepository);
             catalogShop.Show();
             Hide();
         }
 
         private void OrderToolStripMenuItem_Click(object sender, EventArgs e) 
         {
-            var catalogOrder = new CatalogForm<Order>(db.Orders, db);
+            var catalogOrder = new CatalogForm<Order>(orderRepository.Orders, productRepository, shopRepository);
             catalogOrder.Show();
             Hide();
         }
@@ -39,8 +44,8 @@ namespace BakeryUI
             var form = new ProductForm();
             if (form.ShowDialog() == DialogResult.OK)
             {
-                db.Products.Add(form.Product);
-                db.SaveChanges();
+                productRepository.Products.Add(form.Product);
+                productRepository.SaveChanges();
             }
         }
 
@@ -49,8 +54,8 @@ namespace BakeryUI
             var form = new ShopForm();
             if (form.ShowDialog() == DialogResult.OK)
             {
-                db.Shops.Add(form.Shop);
-                db.SaveChanges();
+                shopRepository.Shops.Add(form.Shop);
+                shopRepository.SaveChanges();
             }
         }
 
@@ -60,7 +65,8 @@ namespace BakeryUI
         }
 
         private void AboutToolStripMenuItem_Click(object sender, EventArgs e)
-        { 
+        {
+             
         }
     }
 }

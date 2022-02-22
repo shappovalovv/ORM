@@ -43,7 +43,6 @@ namespace BakeryUI
             this.referenceToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.aboutToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            //this.textBox = new System.Windows.Forms.TextBox();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -146,10 +145,10 @@ namespace BakeryUI
             // this.aboutToolStripMenuItem});
             // this.referenceToolStripMenuItem.Name = "referenceToolStripMenuItem";
             // this.referenceToolStripMenuItem.Size = new System.Drawing.Size(113, 19);
-            // this.referenceToolStripMenuItem.Text = "References";
-            // 
-            // aboutToolStripMenuItem
-            // 
+            // this.referenceToolStripMenuItem.Text = "Reference";
+            // // 
+            // // aboutToolStripMenuItem
+            // // 
             // this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
             // this.aboutToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
             // this.aboutToolStripMenuItem.Text = "About";
